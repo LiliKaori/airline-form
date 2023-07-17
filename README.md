@@ -19,6 +19,28 @@ Nesse projeto possui:
 <br>
 <img src="./src/assets/displayDesktop.gif" alt="display-do-projeto"/>
 
+## Para Executar o Projeto Localmente
+### É preciso ter:
+<ul>
+  <li>VS Code ou algum programa de editor de código</li>
+  <li>Node.js 16.8 ou posterior</li>
+</ul>
+
+### Passos para clonar o projeto e executar localmente:
+<ol>
+  <li>Acima da lista de arquivos desse repositório, clique em "Code".</li>
+  <li>Copie a URL do repositório</li>
+  <li>Abra o VS Code e entre no git bash do terminal</li>
+  <li>Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado</li>
+  <li>Digite "git clone" e cole a URL já copiada e precione ENTER</li>
+  <li>Com o repositório clonado, digite "npm install" para instalar as dependências</li>
+  <li>Para executar o projeto, digite no terminal "npm run dev"</li>
+  <li>Acesse a página no navegador de sua preferência com esse link: [http://localhost:3000](http://localhost:3000)</li>
+</ol>
+
+________________________________________________________________________________________________________________________
+# ReadMe do React-Next
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
