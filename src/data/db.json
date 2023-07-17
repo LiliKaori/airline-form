@@ -1,0 +1,34 @@
+{
+    "airport":[
+        {
+            "name": "Todos os aeroportos",
+            "city": "Belo Horizonte",
+            "country": "Brasil",
+            "code": "BHZ"
+        },
+        {
+            "name": "Todos os aeroportos",
+            "city": "São Paulo",
+            "country": "Brasil",
+            "code": "SAO"
+        },
+        {
+            "name": "Todos os aeroportos",
+            "city": "Rio de Janeiro",
+            "country": "Brasil",
+            "code": "RIO"
+        },
+        {
+            "name": "Aerop. Internacional Deputado Luiz Eduardo Magalhães",
+            "city": "Salvador",
+            "country": "Brasil",
+            "code": "SSA"
+        },
+        {
+            "name": "Aerop. Internacional Presidente Juscelino Kubitschek",
+            "city": "Brasília",
+            "country": "Brasil",
+            "code": "BSB"
+        }
+    ]
+}

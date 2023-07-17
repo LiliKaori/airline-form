@@ -1,0 +1,34 @@
+{
+    "colors": {
+        "primary": "#2BB6BC",        
+        "secondary": "#BCB8B6",
+        "light": "#FFFFFF",
+        "dark": "#130F40",
+        "black": "#000000",
+        "warning": "#F9CA24",
+        "error": "#EB001B",
+        "success": "#00C48C",
+        "gray50": "#535C68",
+        "muted": "#95AFC0",
+        "text": "#7A7A7A"
+    },
+    "fonts": {
+        "title": {
+            "sizes": {
+                "small": "22px",
+                "normal": "30px",
+                "big": "40px"
+            },
+            "family": {
+                "cabin": "Cabin"
+            }
+        },
+        "text": {
+            "sizes": {
+                "small": "13px",
+                "normal": "17px",
+                "big": "22px"
+            }
+        }
+    }
+}
